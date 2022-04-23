@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-color:aliceblue;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(192, 44, 44);
+}
+
+ul, ol {
+  list-style-position: inside;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(179, 52, 179);
+}
+
+p {
+  text-align: center;
+}
+
+.sitede-bulunan {
+  color: rgb(231, 150, 0);
+  font-weight: bold;
+  
+}
+
+img {
+  width: 270px;
+  margin-top: 30px;
+}
+
+.hakkimizda {
+  text-align: left;
+}
+
+h5 {
+  color: rgb(231, 150, 0);
+  font-weight: bold;
+}
